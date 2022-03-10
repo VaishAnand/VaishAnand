@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi Anand
-- 🌱 I’m currently learning Data Analyst Skills
+- 🌱 I’m acquiring Skills to become a Data Analyst
 - 📫 How to reach me vaishnavianad077@gmail.com
 
 <!---
